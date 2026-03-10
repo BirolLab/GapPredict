@@ -10,9 +10,9 @@ In the event that v1.1 doesn't work, try using v1.0.2 with Python3.6 and file an
 
 You can install GapPredict by cloning or downloading the .zip file directly from GitHub.
 
-`git clone git@github.com:bcgsc/GapPredict.git`
+`git clone git@github.com:BirolLab/GapPredict.git`
 
-GapPredict uses Python3.6 and packages outlined in requirements.txt (https://github.com/bcgsc/GapPredict/blob/master/requirements.txt). These packages can be quickly installed by running:
+GapPredict uses Python3.6 and packages outlined in requirements.txt (https://github.com/BirolLab/GapPredict/blob/master/requirements.txt). These packages can be quickly installed by running:
 
 `pip install -r requirements.txt`
 
